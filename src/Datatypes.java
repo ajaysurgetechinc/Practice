@@ -1,6 +1,6 @@
 public class Datatypes {
 
-    int age = 10;                 // int → whole number
+    int age = 20;                 // int → whole number
     String name = "Rohan";        // String → reference type
     boolean student = true;       // boolean → true or false
     char grade = 'A';             // char → single character
