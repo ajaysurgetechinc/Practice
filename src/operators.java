@@ -3,7 +3,7 @@ public class operators {
     public static void main(String[] args) {
 
         int a = 10;
-        int b = 3;
+        int b = 30;
 
         // Arithmetic
         System.out.println("Addition: " + (a + b));
